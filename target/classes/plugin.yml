@@ -1,0 +1,9 @@
+name: rtdPlugin2
+version: '1.0-SNAPSHOT'
+main: org.giga.rtdplugin2.RtdPlugin2
+api-version: '1.20'
+
+commands:
+  rtd:
+    description: random spawn command
+    usage: /rtd

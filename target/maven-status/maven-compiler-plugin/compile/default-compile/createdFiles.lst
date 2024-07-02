@@ -1,0 +1,8 @@
+org/giga/rtdplugin2/actions/TeleportAction.class
+org/giga/rtdplugin2/actions/EffectAction.class
+org/giga/rtdplugin2/lists/SwordsList.class
+org/giga/rtdplugin2/actions/RandomItemAction.class
+org/giga/rtdplugin2/commands/rtdCommand.class
+org/giga/rtdplugin2/RtdPlugin2.class
+org/giga/rtdplugin2/lists/AngryMobsList.class
+org/giga/rtdplugin2/actions/SpawnSurpriseAction.class
